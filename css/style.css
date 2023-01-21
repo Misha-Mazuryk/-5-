@@ -1,0 +1,212 @@
+body {  
+    margin: 0;  
+    padding: 0;  
+   }  
+     
+   @media screen and (min-width: 993px) {  
+    h1 {  
+     text-align: center;  
+    }  
+     
+    #n {  
+     display: flex;  
+    }  
+     
+    #m {  
+     display: flex;  
+    }  
+     
+    #o {  
+     width: 300px;  
+     height: 190px;  
+     border: 2px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 20px;  
+    }  
+     
+    #o2 {  
+     width: 300px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 20px;  
+    }  
+     
+    #o3 {  
+     width: 300px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 20px;  
+    }  
+     
+    #k {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(255, 136, 0);  
+     float: right;  
+    }  
+     
+    #k2 {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(0, 150, 55);  
+     float: right;  
+    }  
+     
+    #k3 {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(150, 0, 75);  
+     float: right;  
+    }  
+     
+    #l {  
+     margin-top: 60px;  
+     margin-left: 10px;  
+    }  
+     
+    #k > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+     
+    #k2 > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+     
+    #k3 > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+   }  
+     
+   @media screen and (min-width: 769px) and (max-width: 992px) {  
+    h1 {  
+     text-align: center;  
+    }  
+     
+    #m {  
+     display: flex;  
+    }  
+     
+    #o {  
+     width: 300px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 50px;  
+    }  
+     
+    #o2 {  
+     width: 300px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 50px;  
+    }  
+     
+    #o3 {  
+     width: 656px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 50px;  
+     margin-top: 50px;  
+    }  
+     
+    #k {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(255, 136, 0);  
+     float: right;  
+    }  
+     
+    #k2 {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(0, 150, 55);  
+     float: right;  
+    }  
+     
+    #k3 {  
+     width: 90px;  
+     border: 2px solid grown;  
+     background-color: rgb(150, 0, 75);  
+     float: right;  
+    }  
+     
+    #l {  
+     margin-top: 60px;  
+     margin-left: 10px;  
+    }  
+     
+    #k > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+     
+    #k2 > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+     
+    #k3 > p {  
+     font-weight: bold;  
+     text-align: center;  
+     margin-top: 5px;  
+     margin-bottom: 5px;  
+    }  
+   }  
+     
+   @media screen and (max-width: 768px) {  
+    h1 {  
+     text-align: center;  
+    }  
+     
+    #n {  
+     display: inline;  
+     align-items: center;  
+    }  
+     
+    #o {  
+     width: 700px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 34px;  
+     margin-top: 34px;  
+    }  
+     
+    #o2 {  
+     width: 700px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 34px;  
+     margin-top: 34px;  
+    }  
+     
+    #o3 {  
+     width: 700px;  
+     height: 190px;  
+     border: 3px solid grown;  
+     background-color: mediumslategreen;  
+     margin-left: 34px;  
+     margin-top: 34px;  
+    }  
+     
+    #k {  
+     width: 90px;  
+     border: 2px solid grown;
